@@ -1,1 +1,6 @@
-# New Page
+---
+layout: post
+title: "First Blog Post"
+
+
+# Welcome
